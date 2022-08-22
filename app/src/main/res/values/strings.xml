@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bumf</string>
+    <string name="home_menu">Home</string>
+    <string name="search_menu">Search</string>
+    <string name="profile_menu">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="breaking_news_text">Breaking News</string>
+    <string name="more_text">More</string>
+    <string name="top_movies_text">Top Movies</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="new_movies_text">New Movies</string>
+</resources>
